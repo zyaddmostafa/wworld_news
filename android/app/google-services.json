@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1062133734223",
+    "project_id": "world-news-c4b40",
+    "storage_bucket": "world-news-c4b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062133734223:android:c2562f83c8b8c55826433a",
+        "android_client_info": {
+          "package_name": "com.example.uworld_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062133734223-qa01j9qnfda9jj5nimhurafecfhpk576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFPYianjI1sz8FPRcxX8NWdTePzUOLHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062133734223-qa01j9qnfda9jj5nimhurafecfhpk576.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062133734223-rt0b5fbmpdfhtqpdsoum62hge4all4rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.worldNews"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062133734223:android:3c84c7cb7c527eed26433a",
+        "android_client_info": {
+          "package_name": "com.example.world_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062133734223-qa01j9qnfda9jj5nimhurafecfhpk576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFPYianjI1sz8FPRcxX8NWdTePzUOLHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062133734223-qa01j9qnfda9jj5nimhurafecfhpk576.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062133734223-rt0b5fbmpdfhtqpdsoum62hge4all4rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.worldNews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
