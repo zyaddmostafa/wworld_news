@@ -4,10 +4,15 @@ import 'package:uworld_news/constants.dart';
 import 'package:uworld_news/widgets/bookmark_articlebuilder.dart';
 import 'package:uworld_news/widgets/custom_title.dart';
 
-class BookmarkView extends StatelessWidget {
+class BookmarkView extends StatefulWidget {
   const BookmarkView({super.key});
   static String id = kBookmarkNodata;
 
+  @override
+  State<BookmarkView> createState() => _BookmarkViewState();
+}
+
+class _BookmarkViewState extends State<BookmarkView> {
   @override
   Widget build(BuildContext context) {
     var email = ModalRoute.of(context)!.settings.arguments;

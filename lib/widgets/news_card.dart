@@ -13,6 +13,7 @@ class NewsCard extends StatefulWidget {
   const NewsCard({super.key, required this.articleModel, required this.email});
   final ArticleModel articleModel;
   final String email;
+
   @override
   State<NewsCard> createState() => _NewsCardState();
 }
