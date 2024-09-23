@@ -22,7 +22,7 @@ class _CategoryCardlistbuilderState extends State<CategoryCardlistbuilder> {
       child: GridView.builder(
         gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
           crossAxisCount: 2,
-          childAspectRatio: 2.3,
+          childAspectRatio: 2.5,
           crossAxisSpacing: 15,
           mainAxisSpacing: 30,
         ),

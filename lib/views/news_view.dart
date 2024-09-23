@@ -27,7 +27,7 @@ class _NewsViewState extends State<NewsView> {
         body: ListView(
           children: [
             const SizedBox(
-              height: 60,
+              height: 20,
             ),
             const CustomTitle(
                 titlepadding: 280,

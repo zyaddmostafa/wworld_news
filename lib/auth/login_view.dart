@@ -129,7 +129,7 @@ class _LoginViewState extends State<LoginView> {
                   try {
                     await signInWithGoogle();
                     Navigator.pushNamed(context, Navigationbottombar.id,
-                        arguments: loginemail);
+                        arguments: signInWithGoogle());
                   } catch (e) {
                     print(e);
                   }
